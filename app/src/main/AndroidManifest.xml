@@ -25,6 +25,12 @@
             android:screenOrientation="portrait">
         </activity>
         <activity
+            android:name=".example.HttpsPlayActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="测试Https流媒体播放"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
             android:name=".example.RecyclerViewActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="在RecylerView视频列表中"

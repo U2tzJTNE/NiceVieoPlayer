@@ -40,4 +40,9 @@ public class MainActivity extends AppCompatActivity {
         // 在Fragment中使用NiceVideoPlayer，如果需要处理播放时按下Home键的逻辑.
         startActivity(new Intent(this, ProcessHome2Activity.class));
     }
+
+    public void testHttpsVideo(View view) {
+        // 播放Https流媒体视频
+        startActivity(new Intent(this, HttpsPlayActivity.class));
+    }
 }
