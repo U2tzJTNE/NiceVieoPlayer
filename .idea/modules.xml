@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/NiceVieoPlayer.iml" filepath="$PROJECT_DIR$/NiceVieoPlayer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/nicevideoplayer/nicevideoplayer.iml" filepath="$PROJECT_DIR$/nicevideoplayer/nicevideoplayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NiceVieoPlayer.iml" filepath="$PROJECT_DIR$/.idea/modules/NiceVieoPlayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/NiceVieoPlayer.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/NiceVieoPlayer.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nicevideoplayer/NiceVieoPlayer.nicevideoplayer.iml" filepath="$PROJECT_DIR$/.idea/modules/nicevideoplayer/NiceVieoPlayer.nicevideoplayer.iml" />
     </modules>
   </component>
 </project>
